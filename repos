@@ -1,0 +1,100 @@
+skeptycal/.dotfiles	This is a collection of settings and utilities that keeps me working somewhat efficiently.	public	2021-05-01T13:33:02Z
+skeptycal/gorepotemplate	Go utilities for macOS.	public	2021-05-01T13:28:00Z
+skeptycal/git-achievements	Acquire achievements while using git.	public	2021-05-01T13:19:40Z
+skeptycal/template	Project setup template	public	2021-04-30T22:09:45Z
+skeptycal/json_test	Python performance profiling for comparing various json modules.	public	2021-04-30T21:46:36Z
+skeptycal/Homebrew		public	2021-04-30T21:44:08Z
+skeptycal/insight_github		public	2021-04-30T21:43:46Z
+skeptycal/as-anansi	Tricky and fun ansi text utilities for python programs. The obligatory ANSI CLI module from the Python system utilities package AutoSys	public	2021-04-30T21:42:44Z
+skeptycal/pc	pre-commit deployment automation for macOS	public	2021-04-30T20:55:41Z
+skeptycal/algo		public	2021-04-30T20:50:29Z
+skeptycal/clojure2		public	2021-04-30T18:25:39Z
+skeptycal/secfilecheck		public	2021-04-30T15:46:32Z
+skeptycal/ansi	ansi color utilities for macOS	public	2021-04-30T15:18:54Z
+skeptycal/clojure_site	:unicorn: About me ...	public	2021-04-30T12:31:57Z
+skeptycal/vue-devtools		public	2021-04-30T03:55:44Z
+skeptycal/skeptycal.github.io	Software developer in Austin, TX (Python, Go, data, BS Chemistry)	public	2021-04-29T00:46:22Z
+skeptycal/havlakcpp	benchmarks and internal Google tuning	public	2021-04-28T20:13:01Z
+skeptycal/json		public	2021-04-23T16:54:42Z
+skeptycal/options		public	2021-04-22T14:49:14Z
+skeptycal/errorlogger		public	2021-04-22T14:19:13Z
+skeptycal/gofile	file utilities for Go on macOS	public	2021-04-21T15:18:24Z
+skeptycal/gomake		public	2021-04-21T10:27:50Z
+skeptycal/cli	Command Line utilities for Go	public	2021-04-21T09:14:34Z
+skeptycal/autosys	System utilities for efficient Python development on macOS	public	2021-04-20T20:26:37Z
+skeptycal/pathpack	Easy subclassing and extension of pathlib classes.	public	2021-04-20T20:22:21Z
+skeptycal/textcolors	ANSI text colors	public	2021-04-20T18:36:33Z
+skeptycal/eduphoria	Gather and format student data from Eduphoria.	public	2021-04-20T18:11:49Z
+skeptycal/html_trim		public	2021-04-20T18:07:12Z
+skeptycal/stub		private	2021-04-19T16:15:34Z
+skeptycal/stream		private	2021-04-17T06:18:13Z
+skeptycal/dir		private	2021-04-17T04:08:44Z
+skeptycal/skeptycal		public	2021-04-15T18:48:54Z
+skeptycal/example		public	2021-04-15T18:38:55Z
+skeptycal/zsh	Zsh command-line utilities from within Go.	public	2021-04-14T22:12:00Z
+skeptycal/heronian	A little playground for super triangles!	public	2021-04-12T17:38:37Z
+skeptycal/util	Go utilities for macOS. These are mostly experiments and personal productivity utilities ... not guaranteed to be stable or usable for anything!	public	2021-04-10T23:13:27Z
+skeptycal/skeptycal.github.io.bak	Liquid Data <:|:> Visceral Design <:|:> Creative Curiosity <:|:> Pretty Pictures	public	2021-04-05T20:03:04Z
+skeptycal/linecount	A playground for text counting, parsing, testing, and analysis.	public	2021-04-02T22:32:42Z
+skeptycal/algotest	Package test is a sandbox for testing algorithms	public	2021-04-02T12:45:20Z
+skeptycal/random_sentence_from_book	RosettaCode.org project	private	2021-04-01T08:36:03Z
+skeptycal/stringutils	Go string utilities	public	2021-04-01T08:10:14Z
+skeptycal/Fibonacci-Spiral-Application		public	2021-03-31T19:24:43Z
+skeptycal/3DScatterPlotApplication		public	2021-03-31T19:18:58Z
+skeptycal/crystals	example of crystal data scraping	public	2021-03-30T18:31:23Z
+skeptycal/teacher_desk	Handy tools for the teacher's desk.	public	2021-03-30T09:44:50Z
+skeptycal/slurry	Organizing ideas	public	2021-03-28T04:11:13Z
+skeptycal/macdash	macOS system information web dashboard	public	2021-03-20T01:55:28Z
+skeptycal/TenDay_Stack_Exchange	Ten Day Assignment: Analysis of Stack Exchange Data	public	2021-03-20T00:51:17Z
+skeptycal/resume		public	2021-03-18T02:50:41Z
+skeptycal/todo		public	2021-03-16T14:13:51Z
+skeptycal/gorepo	gorepo version v0.1.0- software for macOS	public	2021-03-15T03:40:15Z
+skeptycal/tabnine-vim		public	2021-03-15T02:20:45Z
+skeptycal/cell-complex	a cell-complex based algebraic topology library	public	2021-03-11T02:32:44Z
+skeptycal/goex		public	2021-03-10T02:05:12Z
+skeptycal/GitHubActionsRunner	Setup for self-hosted GitHub Actions Runner.	public	2021-03-05T04:15:49Z
+skeptycal/kingpin.v2		public	2021-03-04T10:44:09Z
+skeptycal/nextup	NextUp is a ToDo list organizer for procrastinators.	public	2021-03-04T10:42:26Z
+skeptycal/kingpin	Kingpin - A Go (golang) command line and flag parser	public	2021-03-02T12:39:57Z
+skeptycal/kong	Kong is a command-line parser for Go	public	2021-03-02T12:31:19Z
+skeptycal/gosh		public	2021-01-27T16:16:59Z
+skeptycal/ansicolors	ANSI colors and CLI utilities for macOS / Linux	public	2020-12-24T11:36:42Z
+skeptycal/fiber	A small example web server app using Go Fiber.	public	2020-12-17T04:30:29Z
+skeptycal/gogit		public	2020-12-16T17:52:19Z
+skeptycal/datatools		public	2020-12-16T17:45:27Z
+skeptycal/mysql		public	2020-12-16T17:45:19Z
+skeptycal/static	A place to upload static resources that I link to from other places ...	public	2020-12-13T13:14:18Z
+skeptycal/readyset		public	2020-12-12T16:16:44Z
+skeptycal/matrix		public	2020-12-10T18:11:56Z
+skeptycal/tree		public	2020-12-10T07:32:16Z
+skeptycal/ls		public	2020-12-10T07:23:35Z
+skeptycal/anansi		public	2020-12-08T03:30:54Z
+skeptycal/getpage		public	2020-12-07T22:47:49Z
+skeptycal/sequence		public	2020-12-07T10:01:10Z
+skeptycal/replace		public	2020-12-07T08:53:49Z
+skeptycal/binit		public	2020-12-07T03:28:37Z
+skeptycal/godebug		public	2020-12-05T11:22:43Z
+skeptycal/debug		public	2020-12-04T05:49:46Z
+skeptycal/gofile2		public	2020-12-03T15:02:25Z
+skeptycal/size		public	2020-12-02T20:31:03Z
+skeptycal/skeptycal.com		public	2020-11-24T05:11:48Z
+skeptycal/user_bin_dir_repo		public	2020-11-13T12:06:57Z
+skeptycal/.oh-my-zsh	🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration.	public	2020-10-20T11:02:15Z
+skeptycal/fake_static	Creating a static website along with working python code...	public	2020-10-16T19:09:56Z
+skeptycal/gh		public	2020-10-04T15:31:56Z
+skeptycal/cookiecutter-pipproject		public	2020-09-28T17:52:10Z
+skeptycal/nuxtjs.org		public	2020-09-04T01:22:02Z
+skeptycal/timebandit	desc	public	2020-08-29T23:01:28Z
+skeptycal/auto_loguru	Fancy defaults for the awesome loguru logs!	public	2020-08-27T01:18:33Z
+skeptycal/pyplates		public	2020-08-26T04:47:16Z
+skeptycal/ittytwitty		public	2020-08-10T16:05:41Z
+skeptycal/text_colors	The obligatory ANSI text colors implementation.	public	2020-07-31T16:01:00Z
+skeptycal/setup_utils	Smoothing out the setup bumps ...	public	2020-07-31T15:59:37Z
+skeptycal/bin		public	2020-07-26T19:06:26Z
+skeptycal/pc_test	test of pre-commit automation deployment program	public	2020-07-21T00:41:06Z
+skeptycal/python_performance		public	2020-07-10T19:16:23Z
+skeptycal/lxml		public	2020-07-07T04:30:26Z
+skeptycal/fake		public	2020-06-28T17:11:53Z
+skeptycal/test		public	2020-06-28T17:10:24Z
+skeptycal/onchange_commands		public	2020-05-24T06:48:25Z
+skeptycal/temp		public	2020-05-15T13:27:03Z
