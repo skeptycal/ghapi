@@ -1,5 +1,0 @@
-package ghapi // import "github.com/skeptycal/ghapi"
-
-Package ghapi contains utilities for macOS.
-
-func Example()
