@@ -7,6 +7,5 @@ package ghapi
 import "fmt"
 
 func Example() {
-
 	fmt.Println("Example import acknowledgement from package ghapi")
 }
