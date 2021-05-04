@@ -1,0 +1,9 @@
+package ghapi // import "github.com/skeptycal/ghapi"
+
+Package ghapi contains utilities for macOS.
+
+func ContextExample()
+func Example()
+func ProcessMessages(work <-chan APIMessage)
+type API struct{}
+type APIMessage struct{ ... }

@@ -25,7 +25,7 @@ aliases:
     repo-delete: api -X DELETE "repos/$1"
 EOF
 
-# set token to normal repo access token
+# set token to normal repo access token using environment variable
 GITHUB_TOKEN=$GITHUB_REPO_TOKEN
 gh repo list --fork --limit 100 >| forks
 
@@ -35,6 +35,7 @@ GITHUB_TOKEN=$GITHUB_DEL_TOKEN
 
 # TODO are there any restrictions on this?
 for f in $(cat forklist); do
+	if
 	gh repo view "$f"
 	vared -p 'Delete $f?: ' -c tmp
 	# gh repo-delete "$f"
